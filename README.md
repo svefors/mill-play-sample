@@ -1,3 +1,9 @@
+# Steps to reporudce error:
+
+mill core.compileRouter
+
+# Original README below 
+
 # Play Hello World Web Tutorial for Scala
 
 To follow the steps in this tutorial, you will need the correct version of Java and sbt. The template requires:
